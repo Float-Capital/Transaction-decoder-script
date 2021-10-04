@@ -1,0 +1,14 @@
+{
+  "name": "transaction-decoder",
+  "version": "1.0.0",
+  "description": "Tool for decoding transaction input data ",
+  "main": "decode.js",
+  "author": "Float Capital",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^5.4.7"
+  },
+  "scripts":{
+	"start": "node decoder.js"
+  }
+}

@@ -9,6 +9,7 @@
     "ethers": "^5.4.7"
   },
   "scripts":{
+	"dev": "node decoder.js",
 	"start": "node decoder.js"
   }
 }
